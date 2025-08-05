@@ -1,0 +1,5 @@
+.env
+data
+backup_*
+application_default_credentials.json
+files/
